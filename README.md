@@ -1,11 +1,13 @@
-### :frog:About me:frog:
+# :frog:About me:frog:
 ![coding time](https://github.com/hatefulSalmon/hatefulSalmon/blob/main/coding_time.gif?raw=true)
 
-## Languages
-1. Python ![python](https://github.com/hatefulSalmon/hatefulSalmon/blob/main/python81.PNG?raw=true)
-2. C++ ![c++](https://github.com/hatefulSalmon/hatefulSalmon/blob/main/cplusplus.PNG?raw=true)
-3. C ![c](https://github.com/hatefulSalmon/hatefulSalmon/blob/main/cprogramminglang.png {width=40px height=40px})
+### 💻 Technology Stack
+#### 1. Python
+#### 2. C/C++
+#### 3. GitHub/Bitbucket
 
-<img src="https://github.com/hatefulSalmon/hatefulSalmon/blob/main/cprogramminglang.png" width="40" height="40">
+### 🏆 Coding platforms
+<img src="https://badges.peiyuan.ch/leetcode/salmon77577/solved?logo=leetcode&label=salmon77577&style=for-the-badge&color=green" height="40" />
+<img src="https://www.codewars.com/users/hatefulSalmon/badges/large" height="40" />
 
-<img src="https://www.codewars.com/users/hatefulSalmon/badges/large"/>
+![Codewars](https://github.r2v.ch/codewars?user=hatefulSalmon&stroke=%23BB432C&hide_clan=true&top_languages=true&name=false&theme=dark)
