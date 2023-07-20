@@ -7,7 +7,7 @@
 #### 3. GitHub/Bitbucket
 
 ### 🏆 Coding platforms
-<a src="https://leetcode.com/salmon77577/">
+<a href="https://leetcode.com/salmon77577/">
   <img src="https://badges.peiyuan.ch/leetcode/salmon77577/solved?logo=leetcode&label=salmon77577&style=for-the-badge&color=green" height="40" />
 </a>
 
