@@ -1,5 +1,5 @@
 
-# :frog:About me:frog:
+# 🐸About me🐸
 <div id="header" align="center">
   <img src="https://github.com/hatefulSalmon/hatefulSalmon/blob/main/coding_time.gif?raw=true">
 </div>  
